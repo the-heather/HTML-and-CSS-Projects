@@ -36,6 +36,9 @@ div.gallery {
   border: 1px solid #ccc;
 }
 
+div.gallery1 {
+  border: 1px solid #ccc;
+}
 div.gallery:hover {
   border: 1px solid #777;
 }
@@ -43,11 +46,6 @@ div.gallery:hover {
 div.gallery img {
   width: 100%;
   height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
 }
 
 * {
@@ -113,6 +111,13 @@ div.contact {
   padding: 20px;
 }
 
+div.contact1 {
+  width: 100%
+  float: left
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
 textarea {
   width: 100%;
   height: 150px;
