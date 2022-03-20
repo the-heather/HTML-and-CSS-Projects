@@ -1,0 +1,45 @@
+.header {
+    font-family:" Jazz LET", fantasy;
+    font-size: x-large;
+    font-weight: 900px;
+}
+
+.Video {
+    font-family:"Chalkduster", fantasy;
+    font-weight:400px;
+    font-size: medium;	
+}
+
+.gallery1 {
+    font-family: "Trattatello", fantasy;
+    font-size: medium;
+}
+
+.contact {
+    font-family:"OCR A Std", monospace;
+    font-size: medium;
+    width: 50%;
+    border-radius: 5px;
+    background-color: rgba(95, 87, 95, 0.533);
+    padding: 20px;
+}
+
+.contact_form {
+    width: 100%;
+    float: left;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    padding: 20px;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
