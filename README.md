@@ -1,4 +1,4 @@
-# Tech-Academy-Projects
+# HTML and CSS Projects
 This repository is for my Tech Academy projects and displays sample websites that I made using HTML and CSS. 
 
 ## Projects
